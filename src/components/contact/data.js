@@ -10,7 +10,7 @@ const handleHireMeClick = () => {
 };
 
 const handleWhatsApp = () => {
-  const phoneNumber = "+923482469101"; // Replace with the recipient's phone number
+  const phoneNumber = "+923017633400"; // Replace with the recipient's phone number
   const message = "Hello! ❤️"; // Replace with your desired message
 
   const url = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${message}`;
