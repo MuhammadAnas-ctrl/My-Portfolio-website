@@ -14,7 +14,7 @@ const Herosection = () => {
         <div className="left">
           <div className="designation">
             <h1>
-              Front-End React Developer
+              Full-Stack Developer
               <span>
                 <img src={hand} alt="" />
               </span>
